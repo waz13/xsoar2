@@ -1,6 +1,6 @@
  {
         "id": "ron",
-        "version": 1,
+        "version": -1,
         "cacheVersn": 0,
         "sequenceNumber": 1901807,
         "primaryTerm": 1,
@@ -25,7 +25,7 @@
         "previousAllReadWrite": true,
         "name": "ron",
         "prevName": "ron",
-        "data": "L,I,L,Y,A",
+        "data": "L,I,L,asdsadasdasdasdY,A",
         "locked": false,
         "nameLocked": false,
         "system": false,
